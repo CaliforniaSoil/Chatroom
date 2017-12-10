@@ -1,0 +1,11 @@
+{
+    "name": "socket-chat-example",
+    "version": "0.0.1",
+    "description": "Socket.io Chatroom",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "session": "^0.1.0",
+        "socket.io": "^2.0.4"
+    }
+}
